@@ -11,7 +11,7 @@
 "           vim plugins. The patches are packaged in a tarball. You can find it where
 "           you find this plugin.
 "
-" Author:   Liang Feng <fliang98 AT gmail DOT com>
+" Author:   Liang Feng <liang.feng98 AT gmail DOT com>
 "
 " Version:  0.8
 "

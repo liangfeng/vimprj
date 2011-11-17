@@ -5,7 +5,7 @@
 "
 " Brief:   filetype detect script, used with projectmgr.vim and projectmgr.py
 "
-" Author:  Liang Feng <fliang98 AT gmail DOT com>
+" Author:  Liang Feng <liang.feng98 AT gmail DOT com>
 "
 " Verion:  0.8
 

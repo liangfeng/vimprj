@@ -4,7 +4,7 @@
 # @License:  Vim License  (see vim's :help license)
 #            No warranty, use this program At-Your-Own-Risk.
 
-# @Author:   Liang Feng (fliang98 AT gmail DOT com)
+# @Author:   Liang Feng <feng.liang98 AT gmail DOT com>
 # @Version:  0.8
 
 from __future__ import with_statement
