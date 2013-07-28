@@ -104,7 +104,7 @@ function! s:SetupAllGlobalVariables() "{{{
     " This variable is defined in lookupfile plugin (Vim script #1581)
     let g:LookupFile_TagExpr = ''
     if !exists('g:cscope_sort_path')
-        let g:cscope_sort_path = "D:/GnuWin32/bin"
+        let g:cscope_sort_path = 'C:/Program Files (x86)/cscope'
     endif
     let g:last_update_time = ''
     let g:need_stop_schedule_thread = 0
